@@ -1,6 +1,7 @@
 # Comment 
 tempfile.txt
 tempfile2.txt
+balls.txt
 .DS_Store
 *.zip
 *.gz
